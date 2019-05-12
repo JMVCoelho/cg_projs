@@ -8,6 +8,6 @@ Simple 3D scenes using Three.js
 
 ## Authors
 
-Joao Coelho
-Francisco Santos
-Diogo Reis
+Joao Coelho.
+Francisco Santos.
+Diogo Reis.
