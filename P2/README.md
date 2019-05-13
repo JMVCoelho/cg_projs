@@ -14,6 +14,6 @@ http://web.ist.utl.pt/~ist186448/CG/p2.html
 
 ## Authors
 
-Joao Coelho
-Francisco Santos
-Diogo Reis
+Joao Coelho  
+Francisco Santos  
+Diogo Reis  
